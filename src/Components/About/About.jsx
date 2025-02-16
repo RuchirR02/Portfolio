@@ -30,7 +30,7 @@ const About = () => {
 
               <span className="w-96">
                 <h1 className="text-xl md:text-2xl font-semibold leading-normal">
-                  UI/UX Dedesigner
+                  UI/UX Designer
                 </h1>
                 <p className="text-sm md:text-md leading-tight">
                 Creating intuitive and visually appealing interfaces with a user-centered approach.

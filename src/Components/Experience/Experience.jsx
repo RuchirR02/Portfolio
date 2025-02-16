@@ -1,6 +1,6 @@
 import React from "react";
 import { FaCss3, FaFigma, FaHtml5, FaJs, FaReact } from "react-icons/fa";
-import { SiRedis } from "react-icons/si";
+import { SiPhotopea, SiRedis } from "react-icons/si";
 // import { FaGoogle } from "react-icons/fa";
 import Gleefiy from "../../assets/image.png";
 import Sies from "../../assets/imagesies.png"
@@ -32,7 +32,7 @@ const Experience = () => {
             <SiMongodb color="#47A248" size={50} />
           </span>
           <span className="p-3 bg-zinc-950 flex items-center rounded-2xl">
-            <SiRedis color="#FF4438" size={50} />
+            <SiPhotopea color="#007bff" size={50} />
           </span>
         </div>
         <div>
